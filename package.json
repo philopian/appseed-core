@@ -1,0 +1,15 @@
+{
+  "name": "appseed-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Willis <pdotwdot@gmail.com> (http://www.philwillis.pw/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philopian/appseed-core.git"
+  },
+  "license": "ISC"
+}
